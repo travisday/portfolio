@@ -1,0 +1,18 @@
+{
+  "intro": "Hi",
+  "image": {
+    "src": "../../images/waving-hand.png",
+    "alt": "Waving Hand Emoji"
+  },
+  "title": "I'm a Data Scientist",
+  "subtitle": {
+    "prefix": " ",
+    "highlight": " ",
+    "suffix": ""
+  },
+  "description": "I do A/B testing and statistical analysis to make data driven decisions for products in big tech.",
+  "socialProfiles": {
+    "from": ["LinkedIn", "Github", "Twitter"],
+    "showIcons": false
+  }
+}

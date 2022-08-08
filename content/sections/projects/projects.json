@@ -1,0 +1,43 @@
+{
+  "projects": [
+    {
+      "visible": true,
+      "category": "DATA SCIENCE & MACHINE LEARNING",
+      "title": "Machine Learning to predict cardiac death",
+      "description": "During my internship at Childdren's Hospital Los Angeles I worked with an ICU doctor to develop a machine learning model that predicted cardiac death in patients who were taken off of life sustaining support. Together we co-authored a clinical machine learning paper that was published in a high impact medical journal (link below). After the paper was published my model was deployed in the ICU as a bedside tool for doctors.",
+      "tags": ["Python", "Predictive Models", "Keras"],
+      "image": {
+        "src": "../../images/chla.png",
+        "alt": "Quick Setup"
+      },
+      "links": [
+        {
+          "type": "external",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/33156210/"
+        }
+      ]
+    },
+    {
+      "visible": true,
+      "category": "Mobile App Development",
+      "title": "SUP! - iOS App",
+      "description": "SUP! is a simple iOS app built using SwiftUI and Firebase. The premise was built of the old Yo! app but with a twist. Users can send notifcations to other userss of the app but the only content of the message they can send is SUP!. The twist is that you only have a certain ammount of sups to send per day, and you get points by sending sups.",
+      "tags": ["Swift", "SwiftUI", "Firebase"],
+      "image": {
+        "src": "../../images/sup_icon.png",
+        "alt": "Extendable Layout"
+      },
+      "links": [
+        {
+          "type": "github",
+          "url": "https://github.com/travisday/sup"
+        }
+      ]
+    }
+  ],
+  "button": {
+    "visible": false,
+    "label": "Visit on Github",
+    "url": "https://github.com/konstantinmuenster/gatsby-theme-portfolio-minimal"
+  }
+}

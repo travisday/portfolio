@@ -1,0 +1,44 @@
+{
+  "siteMetadata": {
+    "language": "en",
+    "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
+    "title": "Travis Day - Portfolio",
+    "titleTemplate": "%s · Portfolio Minimal",
+    "description": "A Portfolio Site for Travis Day",
+    "author": "Travis Day",
+    "avatar": "../content/images/favicon.png",
+    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "social": {
+      "behance": "",
+      "github": "https://github.com/travisday",
+      "medium": "",
+      "linkedin": "https://www.linkedin.com/in/travis-day/",
+      "mail": "",
+      "twitter": "https://twitter.com/the_travisday"
+    }
+  },
+  "siteConfiguration": {
+    "logo": { "text": "Travis Day" },
+    "navigation": {
+      "header": [
+        { "label": "About", "url": "/#about" },
+        { "label": "Blog", "url": "https://travisday.substack.com" },
+        { "label": "Projects", "url": "/#features" }
+      ],
+      "ctaButton": {
+        "openNewTab": false,
+        "label": "Contact",
+        "url": "/#contact"
+      },
+      "footer": [
+        { "label": "Privacy", "url": "/privacy" },
+        { "label": "Imprint", "url": "/imprint" }
+      ]
+    },
+    "featureToggles": {
+      "useDarkModeAsDefault": false,
+      "useDarkModeBasedOnUsersPreference": true,
+      "useCookieBar": false
+    }
+  }
+}
