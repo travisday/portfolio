@@ -12,7 +12,7 @@
   },
   "description": "I do A/B testing and statistical analysis to make data driven decisions for products in big tech.",
   "socialProfiles": {
-    "from": ["LinkedIn", "Github", "Twitter"],
+    "from": ["LinkedIn", "Github"],
     "showIcons": false
   }
 }
